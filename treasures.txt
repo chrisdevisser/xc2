@@ -1,0 +1,244 @@
+Type|Direct Requirements|Notes
+
+Argentum
+    Noponya Shrine
+        Red|4 Lockpicking, 4 Ancient Wisdom|Outside shrine
+        Barrel||Fall from nw
+    Goldmouth Flight Deck
+        Brown||Down stairs in nw corner
+        Barrel||Corner of crates by nw corner
+    Goldmouth Res. Dist.
+        Barrel||On the way to Mochichi
+        Brown|2 Nopon Wisdom, 2 Focus|On left before going outside to the east
+        Barrel||Outside to the east
+        Red|2 Lockpicking, 2 Focus|From Mochichi, jump down twice along the wall
+    Bana's Bedroom
+        Brown
+        White|6 Fortitude, 5 Nopon Wisdom
+        Red|5 Focus, 4 Nopon Wisdom
+        White|Nopon Doubloons Ahoy completed|TODO
+    Lemour Inn
+        Barrel|1 Focus, 1 Nopon Wisdom
+    Bower Lounge
+        Brown||Jump onto catwalk and go sw
+        Red|1 Nopon Wisdom, 1 Focus|Jump onto catwalk then jump onto tarps from north
+        Brown|Nopon Doubloons Ahoy started|Jump onto catwalk, run straight, and jump off end 
+    Chairman's Room
+        Brown||Middle room
+    Central Exchange
+        Barrel|2 Focus, 2 Superstrength|West of north exit
+    Maelstrom
+        Red|3 Focus, 4 Nopon Wisdom
+        Barrel|1 Focus, 2 Superstrength
+        Barrel||Behind door on deck
+    Goldmouth Warehouse
+        Barrel
+
+Gormott
+    Masrah Spring
+        ???|High tide|Swim to island
+        ???|High tide|Swim to island
+    Lyta Oasis
+        Brown||Straight ahead from skip travel
+        Red||On top of shed north and a bit west
+        Red|High tide|Island west of skip travel
+    Forgotten Waste
+        Brown|Low tide|At skip travel
+    Wrecc Marshland
+        Brown|Low tide|nw
+    Masrah Spring
+        Brown|Low tide|Dead end sw
+        Brown|Low tide|Dead end nw
+        Brown|Low tide, 1 Lockpicking, 1 Focus|Climb two walls
+    Garanti Plain
+        Brown||Under bridge when entering plain from Outlook Knoll
+    Cape Singbreeze
+        Red|1 Earth Mastery, 1 Fortitude|Beneath cape
+    Lascham Island
+        Brown||Raised land pointing north
+        Brown||Southernmost point
+        Brown||East overlooking the long path ne
+    Plains of Evening Calm
+        Brown||By long path sw
+        Brown||Far ne up ladder
+    Saets Lumber Co.
+        Brown||ne of Eyvat in third small indent by wall
+    Hushview Bridge
+        Red||ne on high ground along edge of big tree 
+    Varnax's Plunge
+        Brown||Due east in corner
+        Red|2 Lockpicking, 1 Keen Eye|Through dark barrier, jump down to the right, then climb wall
+        Red|1 Lockpicking, 1 Superstrength|Follow left wall through level 70s
+    Dewmist Crag
+        Barrel|Low tide, 6 Earth Mastery, 3 Fortitude
+    Coolley Lake
+        Brown|1 Earth Mastery, 1 Keen Eye|sw island of lake
+    Torigoth Flower Patch
+        White||sw in drained toxic lake
+    Hermit's Hollow
+        ???|Start The Riddle on the Wall, ???|Drop down once from Hushview Bridge
+        Red||Drop down twice from Hushview Bridge
+    Nocclia Timber Site
+        Brown||East on wooden platform
+    Honeypot Grotto
+        Red||Up the hill
+    Traveller's Resting Tree
+        Red||Down one ledge from Immovable Gonzalez
+    Verdant Plateau
+        Red||Down on bottom ledge
+    Sauros's Bed
+        White||In cave
+        Brown||North of cave in dead end on hill
+    Dawnview Grotto
+        White
+    Tirkin Turf
+        Red|1 Lockpicking, 1 Focus|Top platform
+    Brigands' Hideout
+        Red
+    Umon's Shipyard
+        Brown||Outside, west wall of building
+    Melnath's Shoulder
+        Red||By H2H on ledge to the left after crossing tree
+        Red||Down on ledge to the right after crossing tree
+    Torigoth Market
+        Red||Recruitment booth
+        White|2 Earth Mastery, 1 Keen Eye|Roof of square building south of Tora's House
+        Barrel||South on walkway, east across high bridge, then jump south onto ledge
+        Barrel|2 Superstrength, 2 Nopon Wisdom|Jump onto building via boxes and then walk around back
+        Brown||Climb tower, jump onto tarp, and cross to building
+    Mor Ardain Consulate
+        Barrel||Outside to the west
+        Red||Inside
+    Garagorm's Arch
+        Barrel||North behind crates
+        Barrel||North and around building
+        Barrel|1 Superstrength, 1 Nopon Wisdom|Down the stairs
+    Grodd Residential Zone
+        Brown||North on lowest level
+    Kloom Farm
+        Brown||West in the building
+    Torigoth Relay Base
+        Red||Jump from middle northern tower
+        Red|1 Lockpicking, 2 Focus|East by salvage point
+    Hangar
+        Brown||se
+    Port Balcony
+        Red
+    Battle Command
+        Red||Middle of room
+        White||Up ladder through door to north
+    Starboard Balcony
+        Brown||Room west
+    Starboard Deck
+        Brown
+    Port Deck
+        ???|Start Marvelous Mercenaries, ???|Through door
+    Bridge
+        Red||Jump down to the east
+    Living Quarters
+        BrownIf you 
+    Kitchen
+        Brown
+    Sickbay
+        Brown
+    Solitary Block #2
+        Red||North cell
+    Solitary Block #1
+        Brown||se cell
+        Brown||North cell
+    Engine Room
+        Brown||Upper catwalk accessed from sw
+
+Uraya
+    Greatmaw Rapids
+        Brown||Beside skip travel
+    Windpipe Deeps
+        Brown||Under ramp leading down
+    Gullet Pass
+        Brown||Down ladder to north
+    Shrine of Light
+        Red
+    Shrine of Offering
+        Red|3 Superstrength, 2 Ancient Wisdom
+    Shrine of Journeys
+        Brown
+    Garfont
+        Barrel||Behind Unita Trading
+        Red|4 Lockpicking, 2 Fortitude|Back of village on high ground
+        Brown||Mercenary HQ
+        Barrel|1 Superstrength, 2 Nopon Wisdom|On right when entering from front gate
+    Jebbas Outlook
+        Brown||West
+    Sternum Arch
+        Brown||West end of water
+    Great Blowhole
+        Brown||se
+    Soulcrown Summit
+        Brown||South of skip travel
+    Lake Varna
+        Red||Take water slide and jump to island
+        Brown||In front of rocks east of water slide
+        Red|1 Lockpicking|Through underground spring
+    Cobalt Cliffs
+        Red||se of skip travel
+    Eight-Rock Skip
+        Brown||sw of area on high ground
+    Minnet Terrace
+        Red|1 Earth Mastery, 1 Focus|Next to location icon on map
+        Brown||South of location icon on map just north of Drillbore Bridge
+    Yurna Elderwood
+        ???|Start The Nopon Murals, 6 Earth Mastery, 2 Keen Eye|Beside tree
+        Brown|1 Earth Mastery, 1 Keen Eye|Beside H2H on top of tree to the north
+        Red||se in cavern accessed by underground spring
+    Dragon's Whiskers
+        White
+    Tardy Gate
+        White||West of gate
+    Wyrmtears
+        Brown||Beside waterfall
+    Badfella's Cave Fort
+        White|6 Lockpicking, 6 Fortitude|Back of cave
+    Crown of Sanctuary
+        Red||se
+        White||Jump down to highest platform
+        Brown||sw at end of path going straight south
+    Fonsa Myma Waters
+        Red||Island sw of where stairs meet water
+        Red||Southwesternmost land reachable by swimming
+        Brown||Island nw of where stairs meet water
+    Stone Gate Ruins
+        Brown||se by Martial Kamron tombstone
+        Brown||To the right as the path rises
+    Loska's Gap
+        Red||Past ice bridge
+        Red||Through underground spring below
+        Brown|2 Focus, 1 Keen Eye|On top of land reached by airflow below
+    Old Quarry
+        Red|2 Lockpicking, 2 Fortitude|Back of quarry
+    Gwendle Repair Dock
+        Brown||By big crates
+    Fonsa Myma
+        Barrel||Outside past west water
+        Red|2 Lockpicking, 2 Fortitude|In middle of water east of market
+        Barrel||Around walkway reached from jumping onto roof from Meluria Antiques
+        Barrel||On walkway reached by jumping down from playhouse
+        Red|1 Lockpicking, 1 Focus|Airflow above Torika Alley
+        Barrel|1 Superstrength, 1 Nopon Wisdom|Uraya Merc Barracks
+        Brown|4 Lockpicking, 2 Ancient Wisdom|Ledge above water accessed by jumping onto roof from Uraya Merc Barracks
+        Barrel|2 Superstrength, 2 Nopon Wisdom|Above Jix, accessed by jumping onto roof from Uraya Merc Barracks
+        Red||se piece of land at port
+        Brown||Around large crates at port
+        Brown||One airflow up tower at port
+        Brown||Two airflows up tower at port
+    Land of the Beaten
+        Brown|7 Earth Mastery, 5 Keen Eye|By west tree
+        Red||Middle of back wall
+    Great Stairway
+        Red||One flight of stairs from the top
+    Olethro Playhouse
+        White|3 Lockpicking|Middle of seating
+    Raqura Aquagardens
+        Red
+        White|4 Lockpicking, 2 Ancient Wisdom
+
+Mor Ardain
