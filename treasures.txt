@@ -76,7 +76,7 @@ Gormott
     Torigoth Flower Patch
         White||sw in drained toxic lake
     Hermit's Hollow
-        ???|Start The Riddle on the Wall, ???|Drop down once from Hushview Bridge
+        ???|Read the Gormott Mural, ???|Drop down once from Hushview Bridge
         Red||Drop down twice from Hushview Bridge
     Nocclia Timber Site
         Brown||East on wooden platform
@@ -221,15 +221,18 @@ Uraya
         Barrel||Outside past west water
         Red|2 Lockpicking, 2 Fortitude|In middle of water east of market
         Barrel||Around walkway reached from jumping onto roof from Meluria Antiques
-        Barrel||On walkway reached by jumping down from playhouse
+    Mymoma Playhouse
+        Barrel||On walkway reached by jumping down 
         Red|1 Lockpicking, 1 Focus|Airflow above Torika Alley
         Barrel|1 Superstrength, 1 Nopon Wisdom|Uraya Merc Barracks
-        Brown|4 Lockpicking, 2 Ancient Wisdom|Ledge above water accessed by jumping onto roof from Uraya Merc Barracks
-        Barrel|2 Superstrength, 2 Nopon Wisdom|Above Jix, accessed by jumping onto roof from Uraya Merc Barracks
-        Red||se piece of land at port
-        Brown||Around large crates at port
-        Brown||One airflow up tower at port
-        Brown||Two airflows up tower at port
+    Uraya Merc Barracks
+        Brown|4 Lockpicking, 2 Ancient Wisdom|Ledge above water accessed by jumping onto roof
+        Barrel|2 Superstrength, 2 Nopon Wisdom|Above Jix, accessed by jumping onto roof
+    Fonsa Myma Port
+        Red||se piece of land
+        Brown||Around large crates
+        Brown||One airflow up tower
+        Brown||Two airflows up tower
     Land of the Beaten
         Brown|7 Earth Mastery, 5 Keen Eye|By west tree
         Red||Middle of back wall
@@ -242,3 +245,103 @@ Uraya
         White|4 Lockpicking, 2 Ancient Wisdom
 
 Mor Ardain
+    Port Anangham
+        Brown|2 Lockpicking, 2 Fortitude|Beside skip travel
+        Brown||Beneath dock
+        Red|High tide|South around wall via cloud sea
+    Cargo Transportation Zone
+        Brown||In cavity north of zone
+        Brown||Behind crates
+    Pipe Maintenance Office
+        Red
+    Ayvill Shopping District
+        Barrel|2 Focus, 3 Nopon Wisdom|Behind Carwood Blacksmiths
+    Fief of Forgetfulness
+        White|Low tide, 3 Focus, 1 Keen Eye
+    Ayvill Shopping Dist. Roof
+        Red|4 Lockpicking|se of inn
+        Brown||By valve on west shopping roof
+    Alba Cavanich
+        White|6 Lockpicking|Brionac hideout
+        Red||Platform reached by falling from Brionac hideout
+    Admar Storage Zone
+        Brown||East wall
+        Barrel||Ledge reached by falling east from southern part of west roof
+    Smùide Hot Spring
+        Barrel
+    Beraf Industry Ward
+        Brown|Up one ladder
+    Smùide Mountain
+        Red|???
+    Geothermal Mining Plant
+        Brown||Upper level
+        Brown||ne of plant
+        Red||nw of plant
+    Brionac Occupied Zone
+        White|5 Lockpicking, 5 Focus|ne
+        White|Read the Mor Ardain Mural, 5 Earth Mastery, 2 Keen Eye, 6 Lockpicking|Just south of location icon on map
+    Turbine Tower
+        Brown||se
+        Brown||ne
+    Old Industrial District
+        Brown||sw
+        White||Jump down three times south of skip travel and H2H
+        Brown||Drop down into first gap north
+    Chansagh Wastes
+        Red||ne of area
+        Brown||North of map before it transitions
+    Abandoned Excavation
+        Red||Left path on walkway
+    Old City of Teddin
+        Red|3 Earth Mastery, 2 Keen Eye|Down ladder to the west
+        Red||In building to the north
+    Bellyfull Canteen
+        Brown
+        Brown||Drop down east hole
+    Junction Control Room
+        Red
+    Old Pipe Junction Corridor
+        Red||Jump down ne outside to the north
+        Brown||Lowest level
+    Storage Warehouse
+        Brown||On catwalk
+    Nopon Pioneers' Spring
+        Red
+    Old Factory Warehouse
+        ???||Outside, required for main story
+        Red||Drop down north
+        Brown||On catwalk
+    Industrial Zone, Upper Duct
+        Brown||South of skip travel
+        Red|2 Lockpicking|East past lattice gate
+    Ether Control Tower
+        Red||Top level
+        Barrel||Top level
+    Nopon Workers' Quarters
+        Barrel
+        Barrel
+        Brown
+    Quality Control Tower
+        Red||Top level
+    Disused Processing Plant
+        Barrel|Low tide
+        Barrel|Low tide
+        Brown|Low tide
+    Suspended Pathway
+        White||Through ventilation shaft
+    Work Observation Tower
+        Red||Balcony outside
+        Brown||Second-lowest level
+        Brown||Outside to the south
+    Niranira's Panic Room
+        Red|1 Lockpicking, 3 Nopon Wisdom
+    Production Admin Office
+        Red
+    Artificial Blade Adjustment
+        Brown||nw
+        White||sw accessed with Control Room key
+    Hardheigh Palace
+        Brown||Dock
+    Bathein Watchtower
+        Red||Ground
+        Barrel||Roof
