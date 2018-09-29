@@ -1,5 +1,8 @@
 Type|Direct Requirements|Notes
 
+Ancient Ship
+    TODO
+
 Argentum
     Noponya Shrine
         Red|4 Lockpicking, 4 Ancient Wisdom|Outside shrine
@@ -345,3 +348,39 @@ Mor Ardain
     Bathein Watchtower
         Red||Ground
         Barrel||Roof
+
+Temperantia
+    Battlescar Cove
+        Brown
+    Bardina Plateau
+        Brown
+    Titan Weapon Remains
+        Brown||East of titan
+        Brown|4 Focus, 2 Keen Eye|Beside east titan's east foot
+    Profaned Place
+        Brown|3 Lockpicking, 2 Ancient Wisdom
+        Red|4 Lockpicking, 3 Ancient Wisdom
+        White|5 Lockpicking, 5 Ancient Wisdom
+    Ardainian Garrison
+        Brown||West on plateau
+    Malignant Gorge
+        Brown||West of map icon
+    Jagron's Citadel
+        White|4 Earth Mastery, 2 Fortitude
+    Ruined Chapel of Danafas
+        Red|4 Earth Mastery, 2 Keen Eye|Dead end west
+    Bastion of Varrac
+        Brown|Start Hero of the Nopon, 99 Lockpicking|Beside location icon on map
+    Toxbloom Spring
+        White|3 Lockpicking|Along left wall going nw
+
+Indoline Praetorium
+    Yannath Main Gate
+        ???|???|Missable, on crates left of main stairway
+        Barrel|???|Missable, jump down to right onto roof near top of stairs
+    Refugee Campground
+        ???|???|Missable, behind locked gate
+    ???
+        Barrel|???|Missable, outside sanctum at top of stairs
+    ???
+        ???|???|Missable, inside party's guest room
