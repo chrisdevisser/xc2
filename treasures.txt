@@ -384,3 +384,81 @@ Indoline Praetorium
         Barrel|???|Missable, outside sanctum at top of stairs
     ???
         ???|???|Missable, inside party's guest room
+
+Tantal
+    Fable Rock
+        Red||Across bridge east of map icon
+        Brown||On ledge east of map icon
+        Brown||Up path to the west
+    Sacred Ice Caverns
+        Red
+    Capital Approach
+        Red||Under bridge, https://youtu.be/6de6-FBXmFg
+    Theosoir
+        Brown||Airflow sw by entrance
+        Barrel||South by informant
+        Red|? Lockpicking, 3 Focus|Above back exit
+        Barrel|3 Focus, 3 Nopon Wisdom|ne corner
+        Barrel||Around building se of Memoria Art
+    Royal Audience Hall
+        Red||Outisde behind the throne and to the south
+        Red||Outisde behind the throne and to the north
+    Storage Room
+        Brown
+    Silvergleam Terrace
+        Red
+    Reliquary of Tantal
+        Red
+        White
+    Hall of Honor
+        Brown||nw
+        Brown||sw
+    Theosoir Rear Gate
+        Brown
+    Amphoret Pillar
+        Brown||North
+        Brown||Climb from west
+    Hope's Horizon
+        Brown||Jump down north
+        Brown||Under bridge
+    Lumos Pillar
+        White|3 Ice Mastery, 3 Keen Eye|Ledge within pillar
+    Airborne Throne
+        White
+    Sealed Quarry
+        Brown||Near ice slide exit
+        White||Fall four times after climbing from ice slide exit
+    Pillar City Ruins
+        Red||Jump to roof from two levels above entrance
+        White|7 Lockpicking|Jump down ledges on north side
+    Old Gelgemos Gate
+        Brown||se from inside
+        Red|4 Ice Mastery, 4 Fortitude|At dead end when accessed from lower level
+    Lumos Pedestal
+        Red|4 Ice Mastery, 3 Keen Eye|On pillar past ice slide
+    Argan Iceblooms
+        Red||Far east of map
+    Heimos's Crevasse
+        Red||nw
+    Sanguinous Grotto
+        Red|2 Lockpicking, 3 Focus
+    Sacred Grove
+        Brown||Pillar ne
+    Zalmor's Crevice
+        Red|3 Lockpicking, 4 Ice Mastery
+    Great Pillar Passage
+        Brown||West, south of passage
+        Brown||nw of skip travel in corner
+    Pippito's Haunt
+        White|4 Earth Mastery, 4 Fortitude
+    Yolmunder's Crevasse
+        Brown||se of map icon in corner
+        Red|4 Focus, 4 Keen Eye|North dead end
+    Tirkinlandia
+        Red||Under west snow mound
+    Memorial Ruins
+        Brown||North wall close to entrance
+        Red||South wall about ⅔ of the way to exit
+        Brown||On ledge in middle by exit
+
+Leftherian Archipelago
