@@ -16,7 +16,7 @@ Ancient Ship
     Fuel Tank #1
         Brown||Missable, up ramp south
 
-Argentum
+Argentum Trade Guild
     Noponya Shrine
         Red|4 Lockpicking, 4 Ancient Wisdom|Outside shrine
         Barrel||Fall from nw
@@ -50,7 +50,7 @@ Argentum
     Goldmouth Warehouse
         Barrel
 
-Gormott
+Gormott Province
     Masrah Spring
         White|High tide|Swim to island
         Red|High tide|Swim to island
@@ -165,7 +165,7 @@ Gormott
     Engine Room
         Brown||Upper catwalk accessed from sw
 
-Uraya
+Kingdom of Uraya
     Greatmaw Rapids
         Brown||Beside skip travel
     Windpipe Deeps
@@ -260,7 +260,7 @@ Uraya
         Red
         White|4 Lockpicking, 2 Ancient Wisdom
 
-Mor Ardain
+Empire of Mor Ardain
     Port Anangham
         Brown|2 Lockpicking, 2 Fortitude|Beside skip travel
         Brown||Beneath dock
@@ -398,7 +398,7 @@ Indoline Praetorium
     Indoline Sanctum
         Brown||Missable, inside party's guest room
 
-Tantal
+Kingdom of Tantal
     TODO: Mural
     Fable Rock
         Red||Across bridge east of map icon
