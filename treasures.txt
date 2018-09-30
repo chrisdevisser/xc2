@@ -462,3 +462,36 @@ Tantal
         Brown||On ledge in middle by exit
 
 Leftherian Archipelago
+    Rigette Harbor
+        Brown||Under dock
+    Merclibay Islet
+        Brown
+    Baldotas Isle
+        Brown||ne
+        White||Jump onto moving island from path ne, jump ne to east island
+    Daram Isle
+        Brown||se
+        Brown||Up sw ladder
+    Ansel Hatchery
+        Brown||West of map icon
+    Merto Island
+        White
+    Fonsett
+        Barrel||Behind schoolhouse
+        White|4 Earth Mastery, 6 Keen Eye|Old Man Caskel's Tree
+        Barrel||North of Corrine's house
+        Brown|5 Earth Mastery, 3 Fortitude|Beside mural
+        Red||Rex's secret base
+    Isle of Sleeping Remains
+        White|Read Leftheria mural, 3 Fortitude, 3 Keen Eye, 6 Lockpicking|In a shell
+        White||In a shell
+        Brown||ne
+        Red|4 Earth Mastery, 3 Keen Eye|In a shell
+    Lud Cloudway
+        Red||West dead end
+    Godsford Isle
+        Brown||Up se ladder
+        Red||Jump onto moving island behind skip travel, jump facing ne onto ne island
+    Island Base Lindwurm
+        Red||North
+        Brown||ne
