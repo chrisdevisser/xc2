@@ -52,8 +52,8 @@ Argentum
 
 Gormott
     Masrah Spring
-        ???|High tide|Swim to island
-        ???|High tide|Swim to island
+        White|High tide|Swim to island
+        Red|High tide|Swim to island
     Lyta Oasis
         Brown||Straight ahead from skip travel
         Red||On top of shed north and a bit west
@@ -92,7 +92,7 @@ Gormott
     Torigoth Flower Patch
         White||sw in drained toxic lake
     Hermit's Hollow
-        ???|Read the Gormott Mural, ???|Drop down once from Hushview Bridge
+        White|Read the Gormott Mural, 5 Earth Mastery, 3 Fortitude|Drop down once from Hushview Bridge
         Red||Drop down twice from Hushview Bridge
     Nocclia Timber Site
         Brown||East on wooden platform
@@ -148,7 +148,7 @@ Gormott
     Starboard Deck
         Brown
     Port Deck
-        ???|Start Marvelous Mercenaries, ???|Through door
+        White|Start Marvelous Mercenaries|Through door
     Bridge
         Red||Jump down to the east
     Living Quarters
@@ -203,7 +203,7 @@ Uraya
         Red|1 Earth Mastery, 1 Focus|Next to location icon on map
         Brown||South of location icon on map just north of Drillbore Bridge
     Yurna Elderwood
-        ???|Start The Nopon Murals, 6 Earth Mastery, 2 Keen Eye|Beside tree
+        Brown|Start The Nopon Murals, 6 Earth Mastery, 2 Keen Eye|Beside tree
         Brown|1 Earth Mastery, 1 Keen Eye|Beside H2H on top of tree to the north
         Red||se in cavern accessed by underground spring
     Dragon's Whiskers
@@ -288,7 +288,7 @@ Mor Ardain
     Beraf Industry Ward
         Brown|Up one ladder
     Smùide Mountain
-        Red|???
+        Red|5 Fortitude, 3 Keen Eye
     Geothermal Mining Plant
         Brown||Upper level
         Brown||ne of plant
@@ -324,7 +324,7 @@ Mor Ardain
     Nopon Pioneers' Spring
         Red
     Old Factory Warehouse
-        ???||Outside, required for main story
+        Barrel||Outside, required for main story
         Red||Drop down north
         Brown||On catwalk
     Industrial Zone, Upper Duct
@@ -389,16 +389,17 @@ Temperantia
 
 Indoline Praetorium
     Yannath Main Gate
-        ???|???|Missable, on crates left of main stairway
+        Barrel|3 Superstrength, 3 Focus|Missable, on crates left of main stairway
         Barrel|???|Missable, jump down to right onto roof near top of stairs
     Refugee Campground
-        ???|???|Missable, behind locked gate
-    ???
-        Barrel|???|Missable, outside sanctum at top of stairs
-    ???
-        ???|???|Missable, inside party's guest room
+        Red||Missable, behind locked gate
+    Seoris Plaza West Gate
+        Barrel|3 Focus, 3 Nopon Wisdom|Missable, Top of stairs
+    Indoline Sanctum
+        Brown||Missable, inside party's guest room
 
 Tantal
+    TODO: Mural
     Fable Rock
         Red||Across bridge east of map icon
         Brown||On ledge east of map icon
@@ -496,7 +497,7 @@ Leftherian Archipelago
         Brown|5 Earth Mastery, 3 Fortitude|Beside mural
         Red||Rex's secret base
     Isle of Sleeping Remains
-        White|Read Leftheria mural, 3 Fortitude, 3 Keen Eye, 6 Lockpicking|In a shell
+        White|Read the Leftheria mural, 3 Fortitude, 3 Keen Eye, 6 Lockpicking|In a shell
         White||In a shell
         Brown||ne
         Red|4 Earth Mastery, 3 Keen Eye|In a shell
