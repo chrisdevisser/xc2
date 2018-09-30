@@ -539,3 +539,30 @@ Cliffs of Morytha
         Red
     Way of the Practitioner
         Brown
+
+Land of Morytha
+    Ancient People's Driftland
+        Brown
+    Fallen Skyscraper
+        Brown||Outside around the west
+        Red|4 Lockpicking, 4 Superstrength|Inside on high level
+    Highway 8
+        Red||North
+        Red||West
+        Brown||South
+    Genome Center
+        Brown
+        White
+    Collapsed Roadway
+        Brown||ne
+    Evacuation Center
+        Brown||Bottom floor
+    Wall Power Control Room
+        Red
+    7th Division
+        White||South
+        White||East
+    Central Pathway
+        Brown||Drop down west
+    World Tree Root
+        White
