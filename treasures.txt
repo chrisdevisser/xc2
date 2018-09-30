@@ -566,3 +566,62 @@ Land of Morytha
         Brown||Drop down west
     World Tree Root
         White
+
+World Tree
+    Lv.2, Mizar: Mid Floor
+        Brown||East
+        Brown||North
+    Waste Store
+        Red
+    Lv.2, Mizar: Central Deck
+        Brown||Ledge overlooking bottom floor
+        Brown||Outside on bottom floor
+        Red||ne bottom floor
+    Nuclear Dump Facility
+        Red|4 Lockpicking, 4 Ancient Wisdom
+        Red||Outside building to the north
+        Brown||sw corner of building
+    Control Room
+        TODO: Sealed bulkhead
+    Data Processing Room
+        TODO: Control panel
+        Red||East
+    Mizar, Elevator #20
+        White|5 Lockpicking, 4 Fortitude|North
+    7th Perimeter Center Floor
+        Red||North
+    Mizar Thoroughfare
+        Brown||East on lower level
+        White||Below lower level
+        Red||East on upper level
+    7th Perimeter Skyport
+        Brown
+        Red
+    7th Perimeter Defense Post
+        Brown||East
+    Lv.3, Alioth
+        Brown||North
+        Brown||South
+    Megrez, Elevator #1
+        White
+
+First Low Orbit Station
+    Rhadamanthus Portal
+        Brown||nw
+        Red||ne on top level
+    Hill Overlooking Elysium
+        Brown||se
+        Red||ne down hill
+        Red||Under bridge
+    Elysium
+        White||ne of map icon
+        Brown||South of water tower
+        Brown||North of map icon inside building
+    Old Temple
+        Red||North
+        White
+    Architect's Room
+        White||East
+    Colossus Hangar
+        Brown||Walkway
+        Red||West
