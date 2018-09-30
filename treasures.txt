@@ -496,3 +496,34 @@ Leftherian Archipelago
         Red||North
         Brown||ne
         White|Start Bana's Revenge|Red Room
+
+Spirit Crucible Elpys
+    Underground River Lavi
+        Brown||South of map icon
+        Red|4 Lockpicking, 3 Ancient Wisdom|se
+        Red||nw on high ground
+    Wonder Spring Plaza Ruins
+        Red||East on lowest level
+        White||Fall down nw
+        Red|4 Lockpicking, 4 Ancient Wisdom|Bottom of hole
+    Elpys Great Hall
+        Brown||nw on highest level of main room
+        Red||In front of miasma west
+        Brown||In tunnel se
+        Brown||North tunnels
+        Red|6 Earth Mastery, 3 Keen Eye|In cave after falling to ledge from entrance
+        Red||Down ledges below entrance
+    Middle Worm-Ridden Cave
+        Brown||High ground nw
+    Penitents' Spring
+        Brown||Ledge by map icon
+    Subterranian Lake Galantia
+        Red
+    Chamber of Offering
+        Brown||nw on high ground
+        Red||West on high ground
+        Red|4 Lockpicking, 3 Ancient Wisdom|East on high ground
+    Vault of Heroes
+        Red||North
+        Red||se
+        White||South
