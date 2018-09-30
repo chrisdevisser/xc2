@@ -1,7 +1,20 @@
 Type|Direct Requirements|Notes
 
 Ancient Ship
-    TODO
+    Ship Helm
+        Brown||Missable
+    Ship Bridge, Mid-Deck
+        Brown||Missable, east
+    Hold #1
+        Brown||Missable, fall north
+        Brown||Missable, south after going up stairs west
+        Red||Missable, north after going up stairs west
+    Loading Bay
+        Brown||Missable, east
+    Fuel Tank #2
+        Brown||Missable
+    Fuel Tank #1
+        Brown||Missable, up ramp south
 
 Argentum
     Noponya Shrine
