@@ -495,3 +495,4 @@ Leftherian Archipelago
     Island Base Lindwurm
         Red||North
         Brown||ne
+        White|Start Bana's Revenge|Red Room
