@@ -527,3 +527,15 @@ Spirit Crucible Elpys
         Red||North
         Red||se
         White||South
+
+Cliffs of Morytha
+    Morytha Falls
+        Brown||East of map icon
+    Runo Cave-in
+        Barrel
+    Balquors Ruins
+        Brown||North
+    Hallowed Godswood Shrine
+        Red
+    Way of the Practitioner
+        Brown
