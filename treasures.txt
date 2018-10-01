@@ -32,7 +32,6 @@ Argentum Trade Guild
         Brown
         White|6 Fortitude, 5 Nopon Wisdom
         Red|5 Focus, 4 Nopon Wisdom
-        White|Nopon Doubloons Ahoy completed|TODO
     Lemour Inn
         Barrel|1 Focus, 1 Nopon Wisdom
     Bower Lounge
@@ -180,9 +179,11 @@ Kingdom of Uraya
         Brown
     Garfont
         Barrel||Behind Unita Trading
-        Red|4 Lockpicking, 2 Fortitude|Back of village on high ground
+        Red|4 Lockpicking, 2 Fortitude|Old Valantia
         Brown||Mercenary HQ
+        Barrel||In front of Fallone Crafts
         Barrel|1 Superstrength, 2 Nopon Wisdom|On right when entering from front gate
+        White|Start Uncover the Truth, 4 Earth Mastery, 3 Keen Eye|Old Valantia
     Jebbas Outlook
         Brown||West
     Sternum Arch
@@ -399,7 +400,6 @@ Indoline Praetorium
         Brown||Missable, inside party's guest room
 
 Kingdom of Tantal
-    TODO: Mural
     Fable Rock
         Red||Across bridge east of map icon
         Brown||On ledge east of map icon
@@ -474,6 +474,8 @@ Kingdom of Tantal
         Brown||North wall close to entrance
         Red||South wall about ⅔ of the way to exit
         Brown||On ledge in middle by exit
+    Central Ether Boulder
+        White|Read the Tantal Mural, 2 Ice Mastery, 4 Fortitude, 5 Lockpicking|North of skip travel
 
 Leftherian Archipelago
     Rigette Harbor
