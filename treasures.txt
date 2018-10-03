@@ -104,6 +104,7 @@ Gormott Province
     Sauros's Bed
         White||In cave
         Brown||North of cave in dead end on hill
+        Barrel|Start Fool's Gold, 2 Nopon Wisdom, 3 Keen Eye|South
     Dawnview Grotto
         White
     Tirkin Turf
@@ -387,6 +388,10 @@ Temperantia
         Brown|Start Hero of the Nopon, 99 Lockpicking|Beside location icon on map
     Toxbloom Spring
         White|3 Lockpicking|Along left wall going nw
+    Xataris Spring
+        Red||Finish A Real Challenge, 4 Lockpicking
+    Leaning Tower of Dorrick
+        Barrel|Start Fool's Gold, 3 Nopon Wisdom, 2 Keen Eye|sw
 
 Indoline Praetorium
     Yannath Main Gate
@@ -503,6 +508,8 @@ Leftherian Archipelago
         White||In a shell
         Brown||ne
         Red|4 Earth Mastery, 3 Keen Eye|In a shell
+        Brown|Start Dagas's Past: Leftheria, 6 Focus, 2 Keen Eye
+        Brown|Start Dagas's Past: Leftheria, 5 Earth Mastery, 5 Fortitude
     Lud Cloudway
         Red||West dead end
     Godsford Isle
@@ -522,6 +529,7 @@ Spirit Crucible Elpys
         Red||East on lowest level
         White||Fall down nw
         Red|4 Lockpicking, 4 Ancient Wisdom|Bottom of hole
+        Barrel|Start Fool's Gold, 3 Nopon Wisdom, 3 Keen Eye|Top of hole
     Elpys Great Hall
         Brown||nw on highest level of main room
         Red||In front of miasma west
@@ -551,6 +559,7 @@ Cliffs of Morytha
         Barrel
     Balquors Ruins
         Brown||North
+        Barrel|Start Fool's Gold, 2 Nopon Wisdom, 4 Keen Eye|In hole
     Hallowed Godswood Shrine
         Red
     Way of the Practitioner
